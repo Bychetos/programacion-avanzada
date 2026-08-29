@@ -85,4 +85,5 @@ https://www.youtube.com/watch?v=XO6tlzAHY3M
 >
 > Con esto concluyo mi presentación sobre sistemas expertos. Muchas gracias por su atención.
 
-
+## Liga al Video (Presentacion)
+(https://www.youtube.com/watch?v=XO6tlzAHY3M)
