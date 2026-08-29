@@ -19,3 +19,6 @@
 
 ## Liga al artículo (Overleaf)
 [Estado del arte de la inteligencia artificial](https://es.overleaf.com/read/vhhznsfxhfyw#80cc56)
+
+## Liga al Video (Presentacion)
+https://www.youtube.com/watch?v=XO6tlzAHY3M
