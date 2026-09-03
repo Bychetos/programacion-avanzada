@@ -13,7 +13,7 @@
    - Archivo: Reporte_J48_Weka.pdf
 
 3. Cuaderno Colab de Iris
-   - [Abrir cuaderno en Google Colab](https://colab.research.google.com/drive/1fzTmknrNt7TvNgnh_FW7PMHiFKpg0WRW?usp=sharing)
+   - [Abrir cuaderno en Google Colab Alan ](https://colab.research.google.com/drive/1fzTmknrNt7TvNgnh_FW7PMHiFKpg0WRW?usp=sharing)
 
 4. Aplicación de Naive Bayes en R al conjunto Iris
    - naiveBayesIris.Rmd
@@ -27,4 +27,4 @@
    - actividadNBFCI.html
 
 7. Cuaderno Colab
-   - [Abrir cuaderno](https://colab.research.google.com/drive/1O0tCmI7IbNGqDFz03aVfvTSK5st8dJEi#scrollTo=9MZqSk6fO7cv)
+   - [Abrir cuaderno Gerardo ](https://colab.research.google.com/drive/1O0tCmI7IbNGqDFz03aVfvTSK5st8dJEi#scrollTo=9MZqSk6fO7cv)
